@@ -1,4 +1,4 @@
-Untuk menghapus ekstensi `.php` dari URL pada XAMPP, Anda bisa menggunakan file `.htaccess` dengan cara melakukan konfigurasi mod_rewrite di Apache. Berikut langkah-langkahnya:
+Untuk menghapus ekstensi `.php` dari URL pada XAMPP, kamu bisa menggunakan file `.htaccess` dengan cara melakukan konfigurasi mod_rewrite di Apache. Berikut langkah-langkahnya:
 
 1. **Aktifkan mod_rewrite di Apache:**
    - Buka file `httpd.conf` di `C:\xampp\apache\conf\httpd.conf`.
